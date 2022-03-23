@@ -6,8 +6,8 @@
     Udaya K QA udaya.k@sentral.com.au
 
 # THANKS
-
-    <name>
+	Thanks to all my students
+    Udaya.
 
 # TECHNOLOGY COLOPHON
 

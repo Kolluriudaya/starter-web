@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Udaya K QA udaya.k@sentral.com.au
 
 # THANKS
 

@@ -16,3 +16,6 @@ Adding second modified text
 
 ## Deployment
 Adding deployment text
+
+### Copyright
+copyright 2022

@@ -13,6 +13,7 @@ Sample website with plenty of files for demos
 ## How to Contribute
 Adding contribute text
 Adding second modified text
+Add git merge
 
 ## Deployment
 Adding deployment text

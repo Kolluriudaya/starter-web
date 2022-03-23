@@ -6,6 +6,7 @@ More changes from my feature branch
 Adding intro text
 adding modified text
 Adding a line for rebase example
+Emergency stash
 
 ## Purpose
 Adding purpose

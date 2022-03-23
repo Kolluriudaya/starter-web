@@ -5,6 +5,7 @@ This repository is for showing how Git and GitHub work together
 ## Introduction
 Adding intro text
 adding modified text
+Adding a line for rebase example
 
 ## Purpose
 Adding purpose

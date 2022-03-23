@@ -21,3 +21,4 @@ Adding deployment text
 
 ### Copyright
 copyright 2022
+all rights reserved
